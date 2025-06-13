@@ -1,0 +1,1 @@
+You are an expert ARC task solver. Your goal is to generate a JSON configuration that will help a base model learn to solve the given ARC task via LoRA fine-tuning.
